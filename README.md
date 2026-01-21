@@ -4,7 +4,7 @@ I'm a final-year Computer Science student at NCU with a strong ability to adapt 
 I enjoy turning ideas into working systems, especially through browser automation and web scraping.
 
 ## Technologies and tools I use
-https://skills.syvixor.com/api/icons?perline=15&i=playwright,zshell,python,java,jupyter,docker,javascript
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=playwright,zshell,python,java,jupyter,docker,javascript)](https://github.com/syvixor/skills-icons)
 
 ## You can reach me at 
 Email: raman@rmnm.in  
